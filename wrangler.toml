@@ -1,5 +1,5 @@
 name = "whatsapp-upi-bot"
-main = "src/index.js"  
+main = "index.js"  
 compatibility_date = "2026-09-18"
 
 [[kv_namespaces]]
