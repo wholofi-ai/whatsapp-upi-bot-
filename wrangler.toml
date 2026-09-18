@@ -1,3 +1,7 @@
+name = "whatsapp-upi-bot"
+main = "src/index.js"  
+compatibility_date = "2026-09-18"
+
 [[kv_namespaces]]
 binding = "UPI_USERS"
 id = "7255a5ceadb245949b64a0007ae98058"
